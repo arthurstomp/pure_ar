@@ -1,0 +1,11 @@
+development:
+  host: localhost
+  adapter: postgresql
+  database: pure_ar
+  poll: 5
+
+test:
+  host: localhost
+  adapter: postgresql
+  database: pure_ar_test
+  poll: 5
